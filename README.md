@@ -1,6 +1,6 @@
-# Proyecto
+# Actividad número 2 de la materia Lenguajes y automatas 1
 
-Este proyecto transforma un codigo en especifico python a su equivalencia en codigo java lo imprime en consola de ubuntu y guarda un archivo .java
+Esta actividad transforma un fragmento de código python específico  a su equivalencia en codigo java después lo imprime en consola de ubuntu y guarda el código en un archivo .java
 
 ## Instrucciones
 
