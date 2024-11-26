@@ -17,7 +17,7 @@ python3 main.py
 gael@LAPTOP-NOOB:~/asmprograms/javaTraductorJava$ python3 main.py
 
 ## Se imprimirá en consola el código traducido de python a su equivalencia en codigo java y además lo guardará en un archivo .java:
-![Descripción de la imagen]()
+![Descripción de la imagen](https://github.com/MartinezDG/TraductorJava/blob/main/CodigoUbuntu.png)
 
 
 
